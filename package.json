@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Practice app using React & Electron",
   "scripts": {
-    "start": "electron main.js"
+    "start": "electron main.js",
+    "build": "webpack",
+    "build-watch": "webpack --watch"
   },
   "author": "Daniel M Chong",
   "license": "ISC",
