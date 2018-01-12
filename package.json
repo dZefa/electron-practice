@@ -1,0 +1,11 @@
+{
+  "name": "electron-practice",
+  "version": "1.0.0",
+  "description": "Practice app using React & Electron",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Daniel M Chong",
+  "license": "ISC",
+  "homepage": "https://github.com/dZefa/electron-practice#readme"
+}
