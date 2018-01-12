@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import Routes from './routes.jsx';
+
 class App extends Component {
   constructor() {
     super();
@@ -8,7 +10,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        This is app.
+        <Routes />
       </div>
     )
   }
